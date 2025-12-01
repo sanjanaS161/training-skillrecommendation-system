@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Training Recommendation System
 
 An **interactive data-driven dashboard** that analyzes employee skill gaps and recommends personalized training programs.  
@@ -68,3 +69,7 @@ This system bridges that gap by:
 - **LinkedIn:** [linkedin.com/in/pradeep-c](https://linkedin.com/in/pradeep-c)
 - **Email:** *pradeep2003c@gmail.com*
 
+=======
+# training-skillrecommendation-system
+ML-based Employee Skill Gap &amp; Training Recommendation Dashboard
+>>>>>>> e039f708244650e8403ba4ae021f21433c633ddb
