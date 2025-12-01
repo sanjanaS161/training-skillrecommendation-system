@@ -64,10 +64,9 @@ This system bridges that gap by:
 
 # 👨‍💻 Author
 
-**Pradeep C**  
+**sanjana s**  
 ## 💼 Connect with Me
-- **LinkedIn:** [linkedin.com/in/pradeep-c](https://linkedin.com/in/pradeep-c)
-- **Email:** *pradeep2003c@gmail.com*
+- **Email:** *sanjanapika1613@gmail.com*
 
 =======
 # training-skillrecommendation-system
